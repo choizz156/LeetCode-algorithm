@@ -26,7 +26,7 @@ System.arraycopy(인덱스부터 nums1에 nums2 삽입);
 Arrays.sort()로 정렬
 //출력
 ```
-## ✅ 풀이
+## ✅ 나의 풀이
 ```java
 class Solution {
 
