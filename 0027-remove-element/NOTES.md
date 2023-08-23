@@ -1,4 +1,4 @@
-​# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150)
 ## 👉 문제 이해
 - target이 되는 숫자와 배열 안의 숫자가 일치하면, 그 수를 맨 뒤에 정렬하고, 그 수를 제외한 나머지 숫자들의 갯수를 세면 된다고 생각했습니다.
 ## 👉 접근 방식
