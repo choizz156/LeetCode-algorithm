@@ -1,4 +1,4 @@
-​# [169. Majority Element](https://leetcode.com/problems/majority-element/)
+# [169. Majority Element](https://leetcode.com/problems/majority-element/)
 ## 👉 문제 이해
 - 배열에서 가장 가장 많은 수를 차지하는 숫자를 리턴하는 로직을 구현합니다.
 ## 👉 접근 방식
