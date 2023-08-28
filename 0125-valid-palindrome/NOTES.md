@@ -5,8 +5,8 @@
 ### 1. StringBuilder의 reverse()메서드 사용합니다.
 ### 2. 정규표현식을 사용해 문자와 숫자가 아닌 것을 없앱니다.
 
-```
 ## ✅ 나의 코드
+
 ```java
 class Solution {
     public boolean isPalindrome(String s) {
