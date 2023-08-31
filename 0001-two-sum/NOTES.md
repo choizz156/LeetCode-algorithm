@@ -1,4 +1,5 @@
-​# [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+# [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
 ## 👉 문제 이해
 - 주어진 타켓의 값과 배열의 두 수의 합이 같아지는 인덱스를 찾는 알고리즘을 작성해야 합니다.
   
