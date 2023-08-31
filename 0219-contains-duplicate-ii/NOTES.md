@@ -1,4 +1,4 @@
-​# [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+# [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
 
 ## 👉 문제 이해
 - 배열 내의 같은 값이 있는지 확인하고, 동일한 값의 인덱스 차이가 주어진 k의 값보다 작거나 같아야 합니다.
